@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9LBm1213GvI06hVu0zXCvQJwKBCZ3NbYSQfNLzkJ4nVKETw4E5TRygfur9Fz9L313wTcDRYq61MWEZYmR7PJhw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\SH_C# Practice work\\SH_C# Practice work\\SH_MVC\\CopyAndMail\\CopyAndMail.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
